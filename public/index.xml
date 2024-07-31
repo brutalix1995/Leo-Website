@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>//localhost:1313/</link>
+    <link>leonhardt-michaelis.de/</link>
     <description>Recent content on </description>
     <image>
       <title></title>
-      <url>//localhost:1313/social-media-karte.png</url>
-      <link>//localhost:1313/social-media-karte.png</link>
+      <url>/social-media-karte.png</url>
+      <link>/social-media-karte.png</link>
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>de-de</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="leonhardt-michaelis.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KulturSilo</title>
-      <link>//localhost:1313/portfolio/kultur-silo/</link>
+      <link>leonhardt-michaelis.de/portfolio/kultur-silo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/portfolio/kultur-silo/</guid>
+      <guid>leonhardt-michaelis.de/portfolio/kultur-silo/</guid>
       <description>&lt;!DOCTYPE html&gt;Slideshow ImagesZum Ort Seit über 100 Jahren prägen die historischen Mühlen und Silobauten die Rheinstadt Krefeld. Diese mächtigen Gebäude, die im frühen 20. Jahrhundert errichtet wurden, wirken wie Landmarks und ziehen schon aus weiter Ferne die Blicke auf sich. Besonders beeindruckend ist der trutzburgartige Mühlenkomplex der ehemaligen Firma „Roters + Buddenberg“. Das turmartige Silo von 1916 erinnert an einen mittelalterlichen Burgfried. Seine hermetische Ziegelsteinfassade ist durch hohe Rundbogen-Blendnischen verziert und nur wenige Fenster wurden integriert.</description>
     </item>
     <item>
       <title>UmbauBunker</title>
-      <link>//localhost:1313/portfolio/umbau-bunker/</link>
+      <link>leonhardt-michaelis.de/portfolio/umbau-bunker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/portfolio/umbau-bunker/</guid>
+      <guid>leonhardt-michaelis.de/portfolio/umbau-bunker/</guid>
       <description>&lt;!DOCTYPE html&gt;Slideshow ImagesENTWURF Von Außen her wirkt der Bunker wie ein hermetisch abgeriegelter Quader. Mittlerweile wurde das alte Walmdach abgetragen und zeigt den wuchtigen Dachstuhl aus Stahlbeton. Kleine in die Fassade einge- lassene Luftlöcher sind die einzigen Elemente, die sonst vollkommen geschlossene Fassade öffnen. Durch jeweils sechs Eingänge kann der Bunker betreten werden. Sein Grundriss ist symmetrisch gegliedert und lässt sich in zwei Achsen aufteilen.
 KONZEPT Basis des Entwurfs ist das Box in Box-Prinzip.</description>
     </item>
     <item>
       <title>Aufstockung</title>
-      <link>//localhost:1313/portfolio/speicher-aufstockung/</link>
+      <link>leonhardt-michaelis.de/portfolio/speicher-aufstockung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/portfolio/speicher-aufstockung/</guid>
+      <guid>leonhardt-michaelis.de/portfolio/speicher-aufstockung/</guid>
       <description>&lt;!DOCTYPE html&gt;Slideshow ImagesKONZEPT Das Gebäude in der Speditionsstraße 15A verdeutlicht in seiner Struktur noch seinen Ursprung als Lager- und Logistikgebäude im Hafen. Heute dient es als Keimzelle für innovative Start-ups und trägt so zum lebendigen Mix von Architekturen und Nutzungen im Düsseldorfer Medienhafen bei. Angesichts der robusten Tragstruktur des Gebäudes liegt es nahe, durch nachhaltige Flächenaktivierung einen attraktiven Gewerbestandort zu schaffen. Die Vorgaben des Brandschutzes erlauben jedoch nur eine zusätzliche Etage unterhalb von 22 Metern über Straßenniveau.</description>
     </item>
     <item>
       <title>HB-AT</title>
-      <link>//localhost:1313/portfolio/hb-at/</link>
+      <link>leonhardt-michaelis.de/portfolio/hb-at/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/portfolio/hb-at/</guid>
+      <guid>leonhardt-michaelis.de/portfolio/hb-at/</guid>
       <description>&lt;!DOCTYPE html&gt;Slideshow ImagesKonzept Der HB AT, der neue Aussichtsturm für den Hülser Berg in Krefeld, soll Besuchern eine umfassende Aussichtserfahrung bieten und gleichzeitig als markantes Bauwerk in der Landschaft fungieren. Der Entwurf kombiniert moderne Architektur mit funktionalen Aspekten, um sowohl ästhetische als auch praktische Anforderungen zu erfüllen.
 Struktur und Materialien Der Turm ist in Stahlgerüstbauweise ausgeführt und mit lichtdurchlässigen PVC-Platten verkleidet. Für das Gerüst wird recycelter Stahl verwendet, um die Umweltbelastung zu minimieren und Ressourcen zu schonen.</description>
     </item>
     <item>
       <title>Kontakt</title>
-      <link>//localhost:1313/kontakt/</link>
+      <link>leonhardt-michaelis.de/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/kontakt/</guid>
+      <guid>leonhardt-michaelis.de/kontakt/</guid>
       <description>
 kontakt@leohardt-michaelis.de </description>
     </item>
     <item>
       <title>Profil</title>
-      <link>//localhost:1313/profil/</link>
+      <link>leonhardt-michaelis.de/profil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/profil/</guid>
+      <guid>leonhardt-michaelis.de/profil/</guid>
       <description>Ich bin Leonhardt Michaelis, ein junger Entwerfer mit Schwerpunkt auf Bauen im Bestand und Denkmalpflege. Mit einem Master in Architektur von der PBSA (Hochschule Düsseldorf) bringe ich umfassendes Fachwissen in Planung und Projektsteuerung mit.
 Ich liebe es, historische Gebäude mit modernen Ansprüchen zu verbinden und ihre Geschichten neu zu erzählen. Meine Arbeiten zeichnen sich durch eine mutige Herangehensweise und sorgsame Analyse aus.
 Kontaktieren Sie mich gerne, um mehr über meine Projekte zu erfahren oder mögliche Kooperationen zu besprechen.</description>

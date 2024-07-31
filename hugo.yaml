@@ -19,7 +19,7 @@ params:
     description: "Bauen im Bestand - Invasive Architektur - Graue Energie sichtbar machen - Typologien für individuelle Bedürfnisse"
     keywords: [Architektur, Portfolio, Leonhardt, Leo, Michaelis]
 
-    env: production^
+    env: production
 
     images: ["/social-media-karte.png"]
 

@@ -1,10 +1,12 @@
 @font-face {
-    font-family: 'CourierNew';
-    src: url('/fonts/CourierNew.woff2') format('woff2');
+    font-family: 'OGCourier';
+    src: url('/fonts/OGCourier.woff2') format('woff2'),
+    url('/fonts/OGCourier.woff') format('woff'),
+    url('/fonts/OGCourier.ttf') format('ttf');
 }
 
 body {
-    font-family: 'CourierNew', monospace;
+    font-family: 'OGCourier', monospace;
 }
 
 .profile img {
