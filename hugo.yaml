@@ -1,7 +1,7 @@
 baseURL: "leonhardt-michaelis.de"
 languageCode: de-de
 theme: ["PaperMod"]
-enableRobotsTXT: true
+enableRobotsTXT: false
 
 minify:
   disableXML: true
