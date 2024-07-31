@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'CourierNew';
+    src: url('/fonts/CourierNew.woff2') format('woff2');
+}
+
+body {
+    font-family: 'CourierNew', monospace;
+}
+
+.profile img {
+    border-radius: 0%;
+}
+
+ .footer {
+    content:url("/Logo_favicon_40_78.png");
+    padding: 10px;
+    margin-top: -1.5%;
+}
+
+.button:hover {background-color: rgb(181, 181, 181);
+    color: white;}
+
+.post-entry:hover {background-color: rgb(181, 181, 181);
+    color: white;}    
+
+.entry-cover:hover {background-color: rgb(181, 181, 181);
+        color: white;}
+        
+.button:active {background-color: rgb(108, 108, 108);
+            color: white;}
+        
+.post-entry:active {background-color: rgb(181, 181, 181);
+            color: white;}    
+        
+.entry-cover:active {background-color: rgb(181, 181, 181);
+                color: white;}   
+
+.post-content a {
+    box-shadow: none;
+}

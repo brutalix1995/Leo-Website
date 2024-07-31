@@ -1,0 +1,65 @@
+baseURL: "leonhardt-michaelis.de"
+languageCode: de-de
+theme: ["PaperMod"]
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+
+    label.icon: "/assets/favicon.ico"
+
+    hidefooter: true
+
+    defaultTheme: light
+    disableThemeToggle: true
+    title: Leonhardt Michaelis — Architekturen
+    description: "Bauen im Bestand - Invasive Architektur - Graue Energie sichtbar machen - Typologien für individuelle Bedürfnisse"
+    keywords: [Architektur, Portfolio, Leonhardt, Leo, Michaelis]
+
+    env: production^
+
+    images: ["/social-media-karte.png"]
+
+    assets:
+        disableHLJS: true
+        favicon: "/assets/favicon.ico"
+        favicon16x16: "/assets/favicon-16.ico"
+        favicon32x32: "/assets/favicon-32.ico"
+        apple_touch_icon: "/assets/favicon.ico"
+        safari_pinned_tab: "/assets/favicon.ico"
+      
+
+
+    profileMode:
+        enabled: true
+        title: "Leonhardt Michaelis"
+        subtitle: "Architekturen"
+        imageUrl: "Logo2.png"
+        imageWidth: 159
+        imageHeight: 312
+        imageTitle: my image
+        buttons:
+        - name: Portfolio
+          url: /portfolio/
+        
+
+menu:
+    main:
+    - identifier: Home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: Profil
+      name: Profil
+      url: /Profil/
+      weight: 2
+    - identifier: Kontakt
+      name: Kontakt
+      url: /Kontakt/
+      weight: 3
+
+
+    
