@@ -6,7 +6,7 @@ hidefooter: false
 \
 &nbsp;
 
-kontakt@leohardt-michaelis.de
+kontakt@leonhardt-michaelis.de
 \
 &nbsp;
 {{< rawhtml >}}
