@@ -8,6 +8,11 @@ hideSummary: true
 hidefooter: false
 ShowBreadCrumbs: true
 ---
+{{< rawhtml >}}
+{{ with .Resources.GetMatch "*.css" }}
+<style>{{ .Content | safeCSS }}</style> <!--  https://stackoverflow.com/questions/71259337/hugo-can-i-apply-a-custom-css-style-to-a-specific-post -->
+{{ end }}
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <!-- <!DOCTYPE html>
@@ -295,7 +300,7 @@ ShowBreadCrumbs: true
         width: 10%;
       }
       .text {
-        font-size: 11px
+        font-size: 0.7rem; /* 0.7x the default font size */
       }
       .carousel img {
         width: calc(100%);

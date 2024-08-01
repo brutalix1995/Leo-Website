@@ -39,7 +39,7 @@ KONZEPT Basis des Entwurfs ist das Box in Box-Prinzip.</description>
       <link>//localhost:1313/portfolio/hb-at/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/portfolio/hb-at/</guid>
-      <description>&lt;!DOCTYPE html&gt;Konzept Der HB AT, der neue Aussichtsturm für den Hülser Berg in Krefeld, soll Besuchern eine umfassende Aussichtserfahrung bieten und gleichzeitig als markantes Bauwerk in der Landschaft fungieren. Der Entwurf kombiniert moderne Architektur mit funktionalen Aspekten, um sowohl ästhetische als auch praktische Anforderungen zu erfüllen.
+      <description>{{ with .Resources.GetMatch &#34;*.css&#34; }}{{ end }}&lt;!DOCTYPE html&gt;Konzept Der HB AT, der neue Aussichtsturm für den Hülser Berg in Krefeld, soll Besuchern eine umfassende Aussichtserfahrung bieten und gleichzeitig als markantes Bauwerk in der Landschaft fungieren. Der Entwurf kombiniert moderne Architektur mit funktionalen Aspekten, um sowohl ästhetische als auch praktische Anforderungen zu erfüllen.
 Struktur und Materialien Der Turm ist in Stahlgerüstbauweise ausgeführt und mit lichtdurchlässigen PVC-Platten verkleidet. Für das Gerüst wird recycelter Stahl verwendet, um die Umweltbelastung zu minimieren und Ressourcen zu schonen.</description>
     </item>
   </channel>
