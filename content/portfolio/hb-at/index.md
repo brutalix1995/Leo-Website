@@ -10,7 +10,7 @@ ShowBreadCrumbs: true
 ---
 
 {{< rawhtml >}}
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <title>Slideshow Images</title>
@@ -212,6 +212,114 @@ ShowBreadCrumbs: true
         timeoutId = setTimeout(showSlides, 5000); // Change image every 5 seconds
       }
     </script>
+  </body>
+</html> -->
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      /* display: flex; */
+      padding: 0 10px;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    .wrapper {
+      max-width: 1200px;
+      position: relative;
+    }
+    .prev {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: 6%;
+        padding: 10px;
+        margin-top: -22px;
+        color: transparent;
+        transition: 0.6s ease;
+        border-radius: 30px;
+        user-select: none;
+        left: -10%;
+    }
+    .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: 6%;
+        padding: 10px;
+        margin-top: -22px;
+        color: transparent;
+        transition: 0.6s ease;
+        border-radius: 30px;
+        user-select: none;
+        right: -10%; /* Position the "next button" to the right */
+    }
+      /* On hover, add a black background color with a little bit see-through */
+    .prev:hover,
+    .next:hover {
+        background-color: rgba(108, 108, 108, 0.5);
+    }
+    .wrapper .carousel {
+      font-size: 0px;
+      white-space: nowrap;
+      cursor: pointer;
+      overflow: hidden;
+    }
+    .carousel img {
+      /* height: 340px; */
+      object-fit: cover; 
+      margin-left: 14px;
+      width: calc(100% / 2);
+      vertical-align: middle;
+    }
+    .carousel img:first-child {
+      margin-left: 0px;
+    }
+    /* On smaller screens, decrease text size */
+    @media only screen and (max-width: 840px) {
+      .prev { 
+        left: 2%;
+        width: 10%;
+      }
+      .next { 
+        right: 2%;
+        width: 10%;
+      }
+      .text {
+        font-size: 11px
+      }
+      .carousel img {
+        width: calc(100%);
+      }
+    }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <a class="prev"><img src="/Pfeil-Links.png"></a>
+      <div class="carousel">
+        <img src="/HB_Turm2.jpg" alt="Turm">
+        <img src="/HB_Turm3.jpg" alt="Turm">
+        <img src="/HB_Turm4.jpg" alt="Turm">
+        <img src="/HB_Turm5.jpg" alt="Turm">
+        <img src="/HB_Turm6.jpg" alt="Turm">
+        <img src="/HB_Turm7.jpg" alt="Turm">
+        <img src="/HB_Turm8.jpg" alt="Turm">
+        <img src="/HB_Turm9.jpg" alt="Turm">
+      </div>
+      <a class="next"><img src="/Pfeil-Rechts.png"></a>
+    </div>
+    <script>
+    </script>    
   </body>
 </html>
 {{< /rawhtml >}}

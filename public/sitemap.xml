@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>leonhardt-michaelis.de/portfolio/kultur-silo/</loc>
+    <loc>//localhost:1313/portfolio/kultur-silo/</loc>
   </url><url>
-    <loc>leonhardt-michaelis.de/portfolio/umbau-bunker/</loc>
+    <loc>//localhost:1313/portfolio/umbau-bunker/</loc>
   </url><url>
-    <loc>leonhardt-michaelis.de/portfolio/speicher-aufstockung/</loc>
+    <loc>//localhost:1313/portfolio/speicher-aufstockung/</loc>
   </url><url>
-    <loc>leonhardt-michaelis.de/portfolio/hb-at/</loc>
+    <loc>//localhost:1313/portfolio/hb-at/</loc>
   </url><url>
-    <loc>leonhardt-michaelis.de/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>leonhardt-michaelis.de/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>leonhardt-michaelis.de/kontakt/</loc>
+    <loc>//localhost:1313/kontakt/</loc>
   </url><url>
-    <loc>leonhardt-michaelis.de/portfolio/</loc>
+    <loc>//localhost:1313/portfolio/</loc>
   </url><url>
-    <loc>leonhardt-michaelis.de/profil/</loc>
+    <loc>//localhost:1313/profil/</loc>
   </url><url>
-    <loc>leonhardt-michaelis.de/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
