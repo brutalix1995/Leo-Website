@@ -7,7 +7,7 @@ Ich bin Leonhardt Michaelis, ein junger  Entwerfer mit Schwerpunkt auf Bauen im 
 
 Ich liebe es, historische Gebäude mit modernen Ansprüchen zu verbinden und ihre Geschichten neu zu erzählen. Meine Arbeiten zeichnen sich durch eine mutige Herangehensweise und sorgsame Analyse aus.
 
-Kontaktieren Sie mich gerne, um mehr über meine Projekte zu erfahren oder mögliche Kooperationen zu besprechen.
+[Kontaktieren](https://leonhardt-michaelis.de/kontakt/) Sie mich gerne, um mehr über meine Projekte zu erfahren oder mögliche Kooperationen zu besprechen.
 
 \
 &nbsp;
