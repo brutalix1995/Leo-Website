@@ -3,9 +3,9 @@ title: "Profil"
 hidefooter: false
 ---
 
-Ich bin Leonhardt Michaelis, ein junger  Entwerfer mit Schwerpunkt auf Bauen im Bestand und Denkmalpflege. Mit einem Master in Architektur von der PBSA (Hochschule Düsseldorf) bringe ich umfassendes Fachwissen in Planung und Projektsteuerung mit.
+Ich bin Leonhardt Michaelis, ein junger Entwerfer mit dem Schwerpunkt auf Bauen im Bestand und Denkmalpflege. Mit einem Master in Architektur von der PBSA (Hochschule Düsseldorf) bringe ich umfassendes Fachwissen in Planung und Projektsteuerung mit.
 
-Ich liebe es, historische Gebäude mit modernen Ansprüchen zu verbinden und ihre Geschichten neu zu erzählen. Meine Arbeiten zeichnen sich durch eine mutige Herangehensweise und sorgsame Analyse aus.
+Die Integration historischer Gebäude mit modernen Anforderungen sowie deren Revitalisierung und das Neuerzählen ihrer Geschichten sind meine Leidenschaften. Meine Projekte zeichnen sich durch eine mutige Herangehensweise und eine sorgfältige Analyse aus.
 
 Kontaktieren Sie mich gerne, um mehr über meine Projekte zu erfahren oder mögliche Kooperationen zu besprechen.
 
