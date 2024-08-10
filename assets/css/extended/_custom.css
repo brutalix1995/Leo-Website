@@ -19,18 +19,22 @@ body {
     margin-top: -1.5%;
 }
 
+.button {
+     font-weight: bold;
+} 
+
 .button:hover {background-color: rgb(181, 181, 181);
     color: white;}
+
+.button:active {background-color: rgb(108, 108, 108);
+            color: white;}
 
 .post-entry:hover {background-color: rgb(181, 181, 181);
     color: white;}    
 
 .entry-cover:hover {background-color: rgb(181, 181, 181);
         color: white;}
-        
-.button:active {background-color: rgb(108, 108, 108);
-            color: white;}
-        
+              
 .post-entry:active {background-color: rgb(181, 181, 181);
             color: white;}    
         

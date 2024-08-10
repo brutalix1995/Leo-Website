@@ -7,7 +7,7 @@ Ich bin Leonhardt Michaelis, ein junger Entwerfer aus Krefeld mit dem Schwerpunk
 
 Die Integration historischer Gebäude mit modernen Anforderungen sowie deren Revitalisierung und das Neuerzählen ihrer Geschichten sind meine Leidenschaften. Meine Projekte zeichnen sich durch eine mutige Herangehensweise und eine sorgfältige Analyse aus.
 
-Kontaktieren Sie mich gerne, um mehr über meine Projekte zu erfahren oder Kooperationen zu besprechen.
+[Kontaktieren](https://leonhardt-michaelis.de/kontakt/) Sie mich gerne, um mehr über meine Projekte zu erfahren oder Kooperationen zu besprechen.
 
 \
 &nbsp;
@@ -20,21 +20,21 @@ Kontaktieren Sie mich gerne, um mehr über meine Projekte zu erfahren oder Koope
 
 08/2024 - Heute \
 Architekt \
-UKW Innenarchitekten, Krefeld
+[UKW Innenarchitekten, Krefeld](https://ukw-innenarchitekten.de/)
 
 02/2023 - 06/2024 \
 Architekt \
-StructureLab Architekten, Düsseldorf
+[StructureLab Architekten, Düsseldorf](https://www.structurelab.com/site_arch/)
 
 
 04/2021 - 02/2023 \
 Werkstudent Architektur  \
-StructureLab Architekten, Düsseldorf
+[StructureLab Architekten, Düsseldorf](https://www.structurelab.com/site_arch/)
 
 
 09/2019 - 01/2021 \
 Werkstudent Architektur \
-SOP Architekten, Düsseldorf
+[SOP Architekten, Düsseldorf](https://sop-architekten.de/)
 
 ### Ausbildung
 
