@@ -2,7 +2,7 @@
 title: "Aufstockung"
 weight: 3
 cover:
-    image: "Aufstockung-transparent.png"
+    image: "/portfolio/speicher-aufstockung/Aufstockung-transparent.png"
 cover.hiddenInSingle: true
 hideSummary: true
 hidefooter: false
@@ -139,31 +139,31 @@ ShowBreadCrumbs: true
   <body>
     <div class="slideshow-container">
       <div class="mySlides fade">
-        <img src="/Aufstockung2.jpg" style="width:100%">
+        <img src="/portfolio/speicher-aufstockung/Aufstockung2.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/Aufstockung3.jpg" style="width:100%">
+        <img src="/portfolio/speicher-aufstockung/Aufstockung3.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/Aufstockung4.jpg" style="width:100%">
+        <img src="/portfolio/speicher-aufstockung/Aufstockung4.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/Aufstockung5.jpg" style="width:100%">
+        <img src="/portfolio/speicher-aufstockung/Aufstockung5.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/Aufstockung6.jpg" style="width:100%">
+        <img src="/portfolio/speicher-aufstockung/Aufstockung6.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/Aufstockung7.jpg" style="width:100%">
+        <img src="/portfolio/speicher-aufstockung/Aufstockung7.jpg" style="width:100%">
       </div>
        <div class="mySlides fade">
-        <img src="/Aufstockung8.jpg" style="width:100%">
+        <img src="/portfolio/speicher-aufstockung/Aufstockung8.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/Aufstockung10.jpg" style="width:100%">
+        <img src="/portfolio/speicher-aufstockung/Aufstockung10.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/Aufstockung9.jpg" style="width:100%">
+        <img src="/portfolio/speicher-aufstockung/Aufstockung9.jpg" style="width:100%">
       </div>
       <a class="prev" onclick="plusSlides(-1)"><img src="/Pfeil-Links.png"></a>
       <a class="next" onclick="plusSlides(1)"><img src="/Pfeil-Rechts.png"></a>

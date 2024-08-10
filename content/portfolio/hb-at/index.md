@@ -2,7 +2,7 @@
 title: "HB-AT"
 weight: 4
 cover:
-    image: "HB_Turm-transparent.png"
+    image: "/portfolio/hb-at/HB_Turm-transparent.png"
 cover.hiddenInSingle: true
 hideSummary: true
 hidefooter: false
@@ -139,28 +139,28 @@ ShowBreadCrumbs: true
   <body>
     <div class="slideshow-container">
       <div class="mySlides fade">
-        <img src="/HB_Turm2.jpg" style="width:100%">
+        <img src="/portfolio/hb-at/HB_Turm2.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/HB_Turm3.jpg" style="width:100%">
+        <img src="/portfolio/hb-at/HB_Turm3.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/HB_Turm4.jpg" style="width:100%">
+        <img src="/portfolio/hb-at/HB_Turm4.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/HB_Turm5.jpg" style="width:100%">
+        <img src="/portfolio/hb-at/HB_Turm5.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/HB_Turm6.jpg" style="width:100%">
+        <img src="/portfolio/hb-at/HB_Turm6.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/HB_Turm7.jpg" style="width:100%">
+        <img src="/portfolio/hb-at/HB_Turm7.jpg" style="width:100%">
       </div>
        <div class="mySlides fade">
-        <img src="/HB_Turm8.jpg" style="width:100%">
+        <img src="/portfolio/hb-at/HB_Turm8.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/HB_Turm9.jpg" style="width:100%">
+        <img src="/portfolio/hb-at/HB_Turm9.jpg" style="width:100%">
       </div>
       <a class="prev" onclick="plusSlides(-1)"><img src="/Pfeil-Links.png"></a>
       <a class="next" onclick="plusSlides(1)"><img src="/Pfeil-Rechts.png"></a>

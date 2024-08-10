@@ -2,7 +2,7 @@
 title: "KulturSilo"
 weight: 1
 cover:
-    image: "KunstSilo24-transparent.png"
+    image: "/portfolio/kultur-silo/KunstSilo24-transparent.png"
 cover.hiddenInSingle: true
 hideSummary: true
 ShowBreadCrumbs: true
@@ -144,73 +144,76 @@ ShowShareButtons: false
   <body>
     <div class="slideshow-container">
       <div class="mySlides fade">
-        <img src="/KunstSilo.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo2.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo2.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo3.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo3.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo4.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo4.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo5.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo25.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo6.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo5.jpg" style="width:100%">
+      </div>
+      <div class="mySlides fade">
+        <img src="/portfolio/kultur-silo/KunstSilo6.jpg" style="width:100%">
       </div>
        <div class="mySlides fade">
-        <img src="/KunstSilo7.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo7.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo8.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo8.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo9.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo9.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo10.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo10.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo11.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo11.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo12.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo12.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo13.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo13.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo14.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo14.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo15.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo15.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo16.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo16.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo17.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo17.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo18.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo18.jpg" style="width:100%">
       </div>
        <div class="mySlides fade">
-        <img src="/KunstSilo19.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo19.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo20.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo20.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo21.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo21.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo22.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo22.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/KunstSilo23.jpg" style="width:100%">
+        <img src="/portfolio/kultur-silo/KunstSilo23.jpg" style="width:100%">
       </div>
       <a class="prev" onclick="plusSlides(-1)"><img src="/Pfeil-Links.png"></a>
       <a class="next" onclick="plusSlides(1)"><img src="/Pfeil-Rechts.png"></a>
@@ -240,6 +243,7 @@ ShowShareButtons: false
       <span class="dot" onclick="currentSlide(21)"></span>
       <span class="dot" onclick="currentSlide(22)"></span>
       <span class="dot" onclick="currentSlide(23)"></span>
+      <span class="dot" onclick="currentSlide(24)"></span>
     </div>
     <script>
       let slideIndex = 0;

@@ -2,7 +2,7 @@
 title: "UmbauBunker"
 weight: 2
 cover:
-    image: "UmbauBunker-transparent.png"
+    image: "/portfolio/umbau-bunker/UmbauBunker-transparent.png"
 cover.hiddenInSingle: true
 hideSummary: true
 hidefooter: false
@@ -139,28 +139,28 @@ ShowBreadCrumbs: true
   <body>
     <div class="slideshow-container">
       <div class="mySlides fade">
-        <img src="/UmbauBunker2.jpg" style="width:100%">
+        <img src="/portfolio/umbau-bunker/UmbauBunker2.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/UmbauBunker3.jpg" style="width:100%">
+        <img src="/portfolio/umbau-bunker/UmbauBunker3.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/UmbauBunker4.jpg" style="width:100%">
+        <img src="/portfolio/umbau-bunker/UmbauBunker4.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/UmbauBunker5.jpg" style="width:100%">
+        <img src="/portfolio/umbau-bunker/UmbauBunker5.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/UmbauBunker6.jpg" style="width:100%">
+        <img src="/portfolio/umbau-bunker/UmbauBunker6.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/UmbauBunker7.jpg" style="width:100%">
+        <img src="/portfolio/umbau-bunker/UmbauBunker7.jpg" style="width:100%">
       </div>
        <div class="mySlides fade">
-        <img src="/UmbauBunker8.jpg" style="width:100%">
+        <img src="/portfolio/umbau-bunker/UmbauBunker8.jpg" style="width:100%">
       </div>
       <div class="mySlides fade">
-        <img src="/UmbauBunker9.jpg" style="width:100%">
+        <img src="/portfolio/umbau-bunker/UmbauBunker9.jpg" style="width:100%">
       </div>
       <a class="prev" onclick="plusSlides(-1)"><img src="/Pfeil-Links.png"></a>
       <a class="next" onclick="plusSlides(1)"><img src="/Pfeil-Rechts.png"></a>

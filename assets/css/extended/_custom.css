@@ -37,6 +37,6 @@ body {
 .entry-cover:active {background-color: rgb(181, 181, 181);
                 color: white;}   
 
-.post-content a {
+/* .post-content a {
     box-shadow: none;
-}
+} */

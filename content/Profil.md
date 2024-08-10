@@ -3,11 +3,11 @@ title: "Profil"
 hidefooter: false
 ---
 
-Ich bin Leonhardt Michaelis, ein junger Entwerfer mit dem Schwerpunkt auf Bauen im Bestand und Denkmalpflege. Mit einem Master in Architektur von der PBSA (Hochschule Düsseldorf) bringe ich umfassendes Fachwissen in Planung und Projektsteuerung mit.
+Ich bin Leonhardt Michaelis, ein junger Entwerfer aus Krefeld mit dem Schwerpunkt auf Bauen im Bestand und Denkmalpflege. Mit einem Master in Architektur von der Peter Behrens School of Arts (HSD) bringe ich umfassendes Fachwissen in Planung und Projektsteuerung mit.
 
 Die Integration historischer Gebäude mit modernen Anforderungen sowie deren Revitalisierung und das Neuerzählen ihrer Geschichten sind meine Leidenschaften. Meine Projekte zeichnen sich durch eine mutige Herangehensweise und eine sorgfältige Analyse aus.
 
-Kontaktieren Sie mich gerne, um mehr über meine Projekte zu erfahren oder mögliche Kooperationen zu besprechen.
+Kontaktieren Sie mich gerne, um mehr über meine Projekte zu erfahren oder Kooperationen zu besprechen.
 
 \
 &nbsp;
@@ -22,7 +22,7 @@ Kontaktieren Sie mich gerne, um mehr über meine Projekte zu erfahren oder mögl
 Architekt \
 UKW Innenarchitekten, Krefeld
 
-02/2023 - 07/2024 \
+02/2023 - 06/2024 \
 Architekt \
 StructureLab Architekten, Düsseldorf
 
@@ -40,11 +40,11 @@ SOP Architekten, Düsseldorf
 
 09/2019 - 02/2023 \
 Master of Arts - Architektur \
-Hochschule Düsseldorf (PBSA)
+[Peter Behrens School of Arts (HSD)](https://pbsa.hs-duesseldorf.de/studium/studiengaenge/ma_a)
 
 09/2016 - 07/2019 \
 Bachelor of Arts - Architektur und Innenarchitektur \
-Hochschule Düsseldorf (PBSA)
+[Peter Behrens School of Arts (HSD)](https://pbsa.hs-duesseldorf.de/studium/studiengaenge/ba_aia)
 
 09/2013 - 07/2016 \
 Bautechnischer Assistent
@@ -64,6 +64,11 @@ In Anerkennung der hervorragenden Leistung der Abschlussarbeit im Studiengang Ma
 Stipendium / Fingscheidt Auszeichnung \
 Von: Fingscheidt Stiftung
 Anerkennung herausragender akademischer Leistungen
+
+
+2019 \
+Zweiter Preis Architecture Competition Moonception \
+[Volume Zero](https://volumezerocompetitions.com/competitions/result/moonception-2019)
 
 \
 &nbsp;
